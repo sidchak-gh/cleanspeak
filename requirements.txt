@@ -1,0 +1,11 @@
+gradio
+numpy
+openai_whisper
+pandas
+scipy
+torch
+transformers
+pillow
+sentencepiece
+spaces
+accelerate
