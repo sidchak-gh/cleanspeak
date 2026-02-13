@@ -1,3 +1,14 @@
+---
+title: Clean Speak
+emoji: 🚫
+colorFrom: red
+colorTo: blue
+sdk: gradio
+sdk_version: 6.5.1
+app_file: profanity_detector.py
+pinned: true
+---
+
 # Clean Speak
 
 A robust multimodal system for detecting and rephrasing profanity in both speech and text, leveraging advanced NLP models to ensure accurate filtering while preserving conversational context.
