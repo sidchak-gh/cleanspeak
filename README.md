@@ -4,7 +4,7 @@ emoji: 🚫
 colorFrom: red
 colorTo: blue
 sdk: gradio
-sdk_version: 6.5.1
+sdk_version: 5.21.0
 app_file: profanity_detector.py
 pinned: true
 ---
